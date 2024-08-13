@@ -1,4 +1,19 @@
 body {
     color: white;
     background: black;
+    margin: 0px
 }
+
+header {
+    border-bottom: solid 2px rgb(10, 81, 139);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(3, 39, 87);
+}
+section{
+    background: rgb(179, 213, 221);
+    padding-bottom: 80px;
+    display: flex;
+    justify-content: center;
+}
+
